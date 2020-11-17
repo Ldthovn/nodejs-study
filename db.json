@@ -1,26 +1,6 @@
 {
   "users": [
     {
-      "name": "Tu",
-      "id": "FfO0tsQxp"
-    },
-    {
-      "name": "Van Anh",
-      "id": "egp7Pa769"
-    },
-    {
-      "name": "Quan An",
-      "id": "IlF_-2WaH"
-    },
-    {
-      "name": "Tho",
-      "id": "LYTPmxvAY"
-    },
-    {
-      "name": "Hoang Trung Nguyen",
-      "id": "sfTuM2onG"
-    },
-    {
       "name": "letho",
       "phone": "0362529595",
       "id": "zeuQ4ay5Q",
@@ -28,14 +8,16 @@
       "password": "e10adc3949ba59abbe56e057f20f883e"
     },
     {
-      "name": "Van Anh",
-      "phone": "4311",
-      "id": "a2pyuTiC4"
+      "name": "Tho 2",
+      "phone": "036565451",
+      "id": "gy0myXe5a",
+      "avatar": "uploads/3e844a3d23f943d6cc6baa653488ace6"
     },
     {
-      "name": "Abc",
-      "phone": "adadf",
-      "id": "yqk68O1vl"
+      "name": "Tho 1",
+      "phone": "032465130",
+      "id": "mA9cpiDoL",
+      "avatar": "uploads/ee5ecea5e4bf1953a8212fef4739667c"
     }
   ]
 }
